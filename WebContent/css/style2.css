@@ -1,0 +1,18 @@
+footer{
+	width: 100%;
+        padding-top: 3px;
+        padding-bottom: 5px;
+        position:end;
+        bottom:0;
+        background: #343a40;
+}
+
+h6{
+        font-size: 14px;
+        color:#448363;   
+}
+
+h5{
+        font-size: 14px;
+        color:#448363;   
+}
